@@ -9,7 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@supabase/postgrest-js": "^0.28.1",
+    "@supabase/supabase-js": "^1.11.9",
     "axios": "^0.21.1",
-    "http-proxy-middleware": "^1.2.0"
+    "dotenv": "^8.2.0",
+    "http-proxy-middleware": "^1.2.0",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0"
   }
 }
